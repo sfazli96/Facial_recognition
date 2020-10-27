@@ -24,6 +24,6 @@ https://github.com/adarsh1021/facedetection/blob/master/haarcascade_frontalface_
 
 
 References: https://github.com/adarsh1021/facedetection
-https://stackoverflow.com/questions/21596281/how-does-one-convert-a-grayscale-image-to-rgb-in-opencv-python (Used for converting grayscale image to rgb)
+                          https://stackoverflow.com/questions/21596281/how-does-one-convert-a-grayscale-image-to-rgb-in-opencv-python (Used for converting grayscale image to rgb)
 https://pypi.org/project/opencv-python/
 
