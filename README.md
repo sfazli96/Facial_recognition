@@ -1,7 +1,7 @@
 # Facial Recognition Software
-   To run in Linux or Windows, Follow these Steps
+   To run in Linux, Follow these Steps
 Steps:
-1. First Open Command Line or Windows Powershell (if your using windows) 
+1. First Open Command Line
 2. Type cd filename.py wherever you save it on you computer
 3. Then in filename type python filename.py 
 4. Boom! There your camera should show your face that it is being recognized.
@@ -9,7 +9,7 @@ Steps:
 That's all!
 
 Requirements:
-1. You need a PC/Desktop that runs Windows or Linux. 
+1. You need a PC/Desktop that runs on Linux. 
 2. Download OpenCV2
 https://pypi.org/project/opencv-python/
 3. Get the face_cascade file from this github or create your own include it in your directory folder
