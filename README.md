@@ -1,4 +1,4 @@
-# Facial Recognition Software
+# Facial Recognition Software Guidlines to Install and Run in less than 6 steps!!
    To run in Linux, Follow these Steps
 Steps:
 1. First Open Command Line
